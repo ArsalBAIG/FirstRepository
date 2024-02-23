@@ -1,2 +1,3 @@
 # FirstRepository
-My first repository
+My first GitHub repository
+Author: Arsal Baig
